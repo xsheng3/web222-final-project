@@ -1,0 +1,64 @@
+/**
+ * Styles for the add-observation.html page 
+ */ 
+main{
+   font-size: 16px;
+   font-weight: 600;
+}
+h2{
+   font-weight: 700;
+}
+.required{
+   color:red;
+}
+fieldset{
+   border-style: solid;
+   border-width: 2px;
+   border-color: rgb(146, 207, 228);
+   font-size: 16px;
+   font-weight: 600;
+}
+
+legend{
+   font-weight: 650;
+   font-size: 15px;
+}
+
+input{
+   margin-top:5px;
+   font-weight: 500;
+}
+
+#species-guess{
+   width:500px;
+}
+
+#description{
+   width:500px;
+}
+#date-observed{
+   font-weight: 600;
+   color:black;
+}
+
+#notes{
+   width:520px;
+   line-height: 16px;
+   height:80px;
+   
+}
+#shareinfo{
+   margin-top:0;
+}
+
+#photographer-name{
+   width:500px;
+}
+
+#photographer-email{
+   width:500px;
+}
+
+#license{
+   font-weight: 500;
+}
